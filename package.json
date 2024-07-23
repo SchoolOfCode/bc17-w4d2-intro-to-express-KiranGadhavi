@@ -1,0 +1,16 @@
+{
+  "name": "bc17-w4d2-intro-to-express-kirangadhavi",
+  "version": "1.0.0",
+  "description": "## Part 1: Installing Express On Your Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "Node index.js"
+  },
+  "type": "module",
+  "author": "Kiran Gadhavi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
